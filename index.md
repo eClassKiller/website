@@ -1,13 +1,14 @@
 ---
-layout: easy
+title: 电子教室终结者
 download_url: https://lanzoul.com/iUbWo0dzhpvc
+layout: easy
 ---
 
-# 本程序可以做什么
+## 本程序可以做什么
 
 本程序可以结束电子教室程序，或以其他方式脱离电子教室控制。并且本程序可以轻松应对**学生机房管理助手**。
 
-# 演示视频
+## 演示视频
 
 [Bilibili](https://www.bilibili.com/video/BV14v411Y78n/)
 
