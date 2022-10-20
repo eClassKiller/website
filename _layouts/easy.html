@@ -19,8 +19,8 @@
       <h1 class="project-name">{{ page.project_name | page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-      {% if site.download_url %}
-        <a href="{{ site.download_url }}" class="btn">下载</a>
+      {% if page.download_url %}
+        <a href="{{ page.download_url }}" class="btn">下载</a>
       {% endif %}
     </header>
 
