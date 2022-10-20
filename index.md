@@ -1,123 +1,28 @@
 ---
 layout: easy
+download_url: https://lanzoul.com/iUbWo0dzhpvc
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 本程序可以做什么
 
-[Link to another page](./another-page.html).
+本程序可以结束电子教室程序，或以其他方式脱离电子教室控制。并且本程序可以轻松应对**学生机房管理助手**。
 
-There should be whitespace between paragraphs.
+# 演示视频
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Bilibili](https://www.bilibili.com/video/BV14v411Y78n/)
 
-# Header 1
+#### 更新日志
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+*   [2022-10-16] v12.3 - 适配学生机房管理助手7.5
+*   [2022-10-03] v12.2 - 适配学生机房管理助手7.4，修改判断方法
+*   [2022-08-21] v12.1 - 适配学生机房管理助手7.3
+*   [2022-05-28] v12 - 已适配学生机房管理助手7.2，修复部分bug
+*   [2022-03-12] v11 - 这个版本做烂了，我也不知道改了什么
+*   [2021-10-11] v10 - 增加解禁功能、防止窗口被截屏或监控
+*   [2021-02-20] v9.1 - 第一个公开发布版本
 
 * * *
 
-### Here is an unordered list:
+### 其他链接
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[学生机房管理助手检测器](https://nkxingxh.lanzoul.com/iAPpq0dzhpwd)
