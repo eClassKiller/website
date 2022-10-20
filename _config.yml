@@ -1,5 +1,5 @@
-title: [电子教室终结者]
-description: [支持多种电子教室与学生机房管理助手]
+title: 电子教室终结者
+description: 支持多种电子教室与学生机房管理助手
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
