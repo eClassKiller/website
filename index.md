@@ -1,7 +1,7 @@
 ---
 title: 介绍
 project_name: 电子教室终结者
-download_url: https://lanzoul.com/iUbWo0dzhpvc
+download_url: https://lanzoul.com/iG1mZ0eajrja
 layout: easy
 ---
 
@@ -16,6 +16,10 @@ layout: easy
 [Bilibili](https://www.bilibili.com/video/BV14v411Y78n/)
 
 #### 更新日志
+
+[2022-10-21] **v12.4**
+  1. 适配学生机房管理助手7.5.2
+  1. 增加、修改判断方法
 
 [2022-10-16] **v12.3**
   1. 适配学生机房管理助手7.5
@@ -45,4 +49,4 @@ layout: easy
 
 ### 其他链接
 
-[学生机房管理助手检测器](https://nkxingxh.lanzoul.com/iAPpq0dzhpwd)
+[学生机房管理助手检测器](https://nkxingxh.lanzoul.com/idtt20eajrmd)
