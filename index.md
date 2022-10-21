@@ -11,6 +11,18 @@ layout: easy
 
 并且本程序可以轻松应对**学生机房管理助手**。
 
+## 支持的目标程序
+
+* 极域电子教室
+
+* 凌波网络教学系统
+
+* 学生机房管理助手
+
+## 报告问题 & 功能请求
+
+如使用时遇到 bug，或者遇到不支持的电子教室程序，亦或是你想提出建议，请向我们[提交 issue](https://github.com/eClassKiller/issue/issues/new/choose)。
+
 ## 演示视频
 
 [Bilibili](https://www.bilibili.com/video/BV14v411Y78n/)
@@ -50,3 +62,5 @@ layout: easy
 ### 其他链接
 
 [学生机房管理助手检测器](https://nkxingxh.lanzoul.com/idtt20eajrmd)
+
+[学生机房管理助手](http://www.jfglzs.com)
