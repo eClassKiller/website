@@ -22,7 +22,7 @@ title: 电子教室终结者
 email: nkxingxh@nkxingxh.top
 description: >- # this means to ignore newlines until "baseurl:"
   支持多种电子教室与学生机房管理助手, 
-  支持解除常见限制, 如禁用CMD、任务管理器等, 
+  支持解除常见限制 (如禁用CMD、任务管理器等), 
   程序自身防截屏与监控。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
