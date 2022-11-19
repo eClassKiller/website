@@ -1,7 +1,7 @@
 ---
 title: 介绍
 project_name: 电子教室终结者
-download_url: https://lanzoul.com/iG1mZ0eajrja
+download_url: https://lanzoux.com/iZ5Bg0gao7ra
 layout: easy
 ---
 
@@ -41,6 +41,8 @@ layout: easy
 
 * 凌波网络教学系统
 
+* 红蜘蛛多媒体网络教室
+
 * 学生机房管理助手
 
 ## 报告问题 & 功能请求
@@ -52,6 +54,10 @@ layout: easy
 [Bilibili](https://www.bilibili.com/video/BV14v411Y78n/)
 
 #### 更新日志
+
+[2022-11-19] **v13.0**
+  1. 适配学生机房管理助手7.8
+  1. 重写电子教室相关模块
 
 [2022-10-21] **v12.4**
   1. 适配学生机房管理助手7.5.2
@@ -85,6 +91,6 @@ layout: easy
 
 ### 其他链接
 
-[学生机房管理助手检测器](https://nkxingxh.lanzoul.com/idtt20eajrmd)
+[学生机房管理助手检测器](https://lanzoux.com/i3Nuy0ga2imj)
 
 [学生机房管理助手](http://www.jfglzs.com)
