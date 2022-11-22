@@ -2,6 +2,7 @@
 title: 介绍
 project_name: 电子教室终结者
 download_url: https://lanzoul.com/iZ5Bg0gao7ra
+credits: "Copyright 2019-2022 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 
