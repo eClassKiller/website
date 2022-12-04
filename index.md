@@ -1,7 +1,7 @@
 ---
 title: 介绍
 project_name: 电子教室终结者
-download_url: https://lanzoul.com/iZ5Bg0gao7ra
+download_url: https://lanzoul.com/imLqr0hsgc7g
 layout: easy
 ---
 
@@ -91,6 +91,6 @@ layout: easy
 
 ### 其他链接
 
-[学生机房管理助手检测器](https://lanzoul.com/i3Nuy0ga2imj)
+[学生机房管理助手检测器](https://lanzoul.com/icHXg0hsgcva)
 
 [学生机房管理助手](http://www.jfglzs.com)
