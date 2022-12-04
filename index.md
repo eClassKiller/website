@@ -1,7 +1,9 @@
 ---
 title: 介绍
 project_name: 电子教室终结者
+keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制"
 download_url: https://lanzoul.com/imLqr0hsgc7g
+credits: "Copyright 2019-2022 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 
