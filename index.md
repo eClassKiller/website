@@ -9,9 +9,9 @@ layout: easy
 
 如果我们的主站被极域电子教室屏蔽，请尝试访问 **[备用站点 (https://bypass.dzjszjz.cf:2096)](https://bypass.dzjszjz.cf:2096)**。
 
-速记: *绕过* . *电子教室终结者* . *cf* : *2096*
+速记: *绕过*.*电子教室终结者*.*cf*:*2096*
 
-即为:  **bypass**. **dzjszjz** . **cf** : **2096**
+即为:  **bypass**.**dzjszjz**.**cf**:**2096**
 
 ## 本程序可以做什么
 
