@@ -118,4 +118,8 @@ layout: easy
 
 [实用工具发布页](./utils.md)
 
+[最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `c85v`
+
+[老版本存档](https://lanzoul.com/b08t69wfa) 密码: `7yga`
+
 [学生机房管理助手](http://www.jfglzs.com)
