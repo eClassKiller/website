@@ -67,7 +67,9 @@ layout: easy
 
 ## 演示视频
 
-[Bilibili](https://www.bilibili.com/video/BV14v411Y78n/)
+[一键破解极域电子教室和机房管理助手](https://www.bilibili.com/video/BV14v411Y78n/)
+
+[5秒扬了学生机房管理助手 7.x / 8.x / 9.x](https://www.bilibili.com/video/BV195411D7nP/)
 
 ## 更新日志
 
