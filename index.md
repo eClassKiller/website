@@ -71,6 +71,8 @@ layout: easy
 
 [5秒扬了学生机房管理助手 7.x / 8.x / 9.x](https://www.bilibili.com/video/BV195411D7nP/)
 
+[解除禁用 Chrome / Edge 浏览器的小游戏](https://www.bilibili.com/video/BV1Sm4y1Y7ET/)
+
 ## 更新日志
 
 [2023-06-13] 
