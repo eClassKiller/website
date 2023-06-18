@@ -20,9 +20,13 @@ layout: easy
 
 *注: 需要在PE环境使用。*
 
-### [学生机房管理助手检测器](https://lanzoul.com/icHXg0hsgcva)
+### [机房管理助手检测器](https://lanzoul.com/icHXg0hsgcva)
 
 用于检测学生机房管理助手的“随机”进程以及安装目录。
+
+### [机房管理助手卸载程序](https://nkxingxh.lanzoul.com/b08uwfvli) 密码: `5mk9`
+
+可以使用卸载程序移除机房管理助手，需要**选择对应版本**的卸载程序。
 
 ## 更新日志
 
