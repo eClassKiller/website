@@ -9,11 +9,7 @@ layout: easy
 
 如果我们的主站被极域电子教室屏蔽，请尝试访问 **[备用站点 (https://bypass.dzjszjz.cf:2096)](https://bypass.dzjszjz.cf:2096)**。
 
-速记: https://*绕过*.*电子教室终结者*.*cf*:*2096*
-
-即为:  https://**bypass**.**dzjszjz**.**cf**:**2096**
-
-***Tip**: 下载集控专杀等实用工具请前往[此页面](./utils.md)或查看页面底部的链接。*
+***Tip**: 如需下载集控专杀等[实用工具](./utils.md)或查看[相关文章](./pages.md)可以点击[页面底部](#其他链接)的链接。*
 
 ## 特别提醒
 
@@ -121,6 +117,8 @@ layout: easy
 ## 其他链接
 
 [实用工具发布页](./utils.md)
+
+[文章归档页](./pages.md)
 
 [最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `c85v`
 
