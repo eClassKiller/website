@@ -8,6 +8,8 @@ layout: easy
 
 当前页面用于发布**实用工具**。
 
+* * *
+
 ## 工具列表
 
 ### [集控专杀工具](https://lanzoul.com/iWum40sz58ob)
@@ -27,5 +29,7 @@ layout: easy
 ### [机房管理助手卸载程序](https://lanzoul.com/b08uwfvli) 密码: `5mk9`
 
 可以使用卸载程序移除机房管理助手，需要**选择对应版本**的卸载程序。
+
+* * *
 
 ## [更新日志](./changes.md)
