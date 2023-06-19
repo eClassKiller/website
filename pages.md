@@ -11,3 +11,5 @@ layout: easy
 ## 机房管理助手相关
 
 [对机房管理助手“临时密码”的一些研究](https://blog.nkxingxh.top/archives/269/)
+
+[解除禁用 Chrome / Edge 浏览器的小游戏](https://blog.nkxingxh.top/archives/268/)
