@@ -7,7 +7,7 @@ credits: "Copyright 2019-2023 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 
-我们的老域名 [dzjszjz.cf](dzjszjz.cf) 将弃用，在确认新域名之前将使用 [dzjszjz.nkxingxh.top](dzjszjz.nkxingxh.top) 作为项目域名。
+我们的老域名 [dzjszjz.cf](https://dzjszjz.cf) 将弃用，在确认新域名之前将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目域名。
 
 ~~如果我们的主站被极域电子教室屏蔽，请尝试访问 **[备用站点 (https://bypass.dzjszjz.cf:2096)](https://bypass.dzjszjz.cf:2096)**。~~
 
