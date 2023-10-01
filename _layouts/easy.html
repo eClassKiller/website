@@ -34,6 +34,9 @@
       {% if page.download_url %}
         <a href="{{ page.download_url }}" class="btn">下载最新版本</a>
       {% endif %}
+      {% if page.second_btn_title %}
+        <a href="{{ page.second_btn_url }}" class="btn">{{ page.second_btn_title }}</a>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">

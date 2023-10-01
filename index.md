@@ -3,9 +3,13 @@ title: 介绍
 project_name: 电子教室终结者
 keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解"
 download_url: https://lanzoux.com/imLqr0hsgc7g
+second_btn_title: "💦加入QQ群"
+second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QxI54ihHfKNMTCD5SEQHzI4teAWrOdZi&authKey=yUzHGA8URjeZsn%2FJ9qHTZj7jtuJEhdGmWETjd1omsbo7EkgdQe2cdibxTzxWoeqN&noverify=0&group_code=831751717
 credits: "Copyright 2019-2023 NKXingXh. All Rights Reserved."
 layout: easy
 ---
+
+🔔 点击👆上方按钮加入交流群🔝
 
 我们的老域名 [dzjszjz.cf](https://dzjszjz.cf) 将弃用，在确认新域名之前将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目域名。
 
@@ -15,11 +19,11 @@ layout: easy
 
 * * *
 
-## 特别提醒
+## 💥 特别提醒
 
 建议在**下载后将文件改名**，使文件名中**不包含版本号**。因为机房管理助手会检测进程名中的版本号特征。从下个版本开始，我们将会修改发布的文件名以规避机房管理助手对进程名特征的检测。
 
-## 本程序可以做什么
+## 🔧 本程序可以做什么
 
 本程序可以结束电子教室程序，或以其他方式脱离电子教室控制。
 
@@ -35,7 +39,7 @@ layout: easy
   1. 命令提示符 (CMD)
   1. 程序运行限制
 
-## 程序特性
+## 🧱 程序特性
 
 **支持自动脱控**。计算机被电子教室或机房管理助手控制时，程序会自动将其最小化或结束其进程。
 
@@ -47,7 +51,7 @@ layout: easy
 
 **支持解除常见限制**。详细请看上一节。
 
-## 支持的目标程序
+## 🎯 支持的目标程序
 
 * 极域电子教室
 
@@ -61,11 +65,11 @@ layout: easy
 
 * 希沃管家 *(集控专杀)*
 
-## 报告问题 & 功能请求
+## 📨 报告问题 & 功能请求
 
 如使用时遇到 bug，或者遇到不支持的电子教室程序，亦或是你想提出建议，请向我们[提交 issue](https://github.com/eClassKiller/issue/issues/new/choose)。
 
-## 演示视频
+## 📺 演示视频
 
 [一键破解极域电子教室和机房管理助手](https://www.bilibili.com/video/BV14v411Y78n/)
 
@@ -75,18 +79,18 @@ layout: easy
 
 * * *
 
-## [更新日志](./changes.md)
+## [📃 更新日志](./changes.md)
 
 * * *
 
-## 其他链接
+## 🎈 其他链接
 
-[实用工具发布页](./utils.md)
+🔨 [实用工具发布页](./utils.md)
 
-[文章归档页](./pages.md)
+📝 [文章归档页](./pages.md)
 
-[最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `c85v`
+📥 [最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `c85v`
 
-[老版本存档](https://lanzoux.com/b08t69wfa) 密码: `7yga`
+📦 [老版本存档](https://lanzoux.com/b08t69wfa) 密码: `7yga`
 
-[学生机房管理助手](http://www.jfglzs.com)
+🎃 [学生机房管理助手](http://www.jfglzs.com)
