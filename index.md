@@ -89,8 +89,8 @@ layout: easy
 
 📝 [文章归档页](./pages.md)
 
-📥 [最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `c85v`
+📥 [最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `dzjszjz`
 
-📦 [老版本存档](https://lanzoux.com/b08t69wfa) 密码: `7yga`
+📦 [老版本存档](https://lanzoux.com/b08t69wfa) 密码: `dzjszjz`
 
 🎃 [学生机房管理助手](http://www.jfglzs.com)

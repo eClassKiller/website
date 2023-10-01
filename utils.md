@@ -26,7 +26,7 @@ layout: easy
 
 用于检测学生机房管理助手的“随机”进程以及安装目录。
 
-### [机房管理助手卸载程序](https://lanzoux.com/b08uwfvli) 密码: `5mk9`
+### [机房管理助手卸载程序](https://lanzoux.com/b08uwfvli) 密码: `dzjszjz`
 
 可以使用卸载程序移除机房管理助手，需要**选择对应版本**的卸载程序。
 
