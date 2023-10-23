@@ -1,7 +1,7 @@
 ---
 title: 介绍
 project_name: 电子教室终结者
-keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解"
+keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解,一键,秒杀"
 download_url: https://lanzoux.com/imLqr0hsgc7g
 second_btn_title: "💦 加入QQ群"
 second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QxI54ihHfKNMTCD5SEQHzI4teAWrOdZi&authKey=yUzHGA8URjeZsn%2FJ9qHTZj7jtuJEhdGmWETjd1omsbo7EkgdQe2cdibxTzxWoeqN&noverify=0&group_code=831751717
@@ -14,10 +14,10 @@ layout: easy
 我们的老域名 ~~dzjszjz.cf~~ 已经弃用，现阶段将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目主要域名。
 
 可用的入口域名: 
-- [dzjszjz.nkxingxh.top](dzjszjz.nkxingxh.top)
-- [dzjszjz.stdio.run](dzjszjz.stdio.run)
-- [dzjszjz.gfw.life](dzjszjz.gfw.life)
-<!-- - [dzjszjz.ip123.link](dzjszjz.ip123.link) -->
+- [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top)
+- [dzjszjz.stdio.run](https://dzjszjz.stdio.run)
+- [dzjszjz.gfw.life](dhttps://zjszjz.gfw.life)
+<!-- - [dzjszjz.ip123.link](https://dzjszjz.ip123.link) -->
 
 ***Tip**: 如需下载集控专杀等[实用工具](./utils.md)或查看[相关文章](./pages.md)可以点击[页面底部](#其他链接)的链接。*
 
