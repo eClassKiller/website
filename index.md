@@ -11,12 +11,13 @@ layout: easy
 
 🔔 **点击👆上方按钮加入交流群🔝**
 
-我们的老域名 [dzjszjz.cf](https://dzjszjz.cf) 已经弃用，现阶段将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目域名。
+我们的老域名 ~~dzjszjz.cf~~ 已经弃用，现阶段将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目主要域名。
 
-可用的域名列表: 
-- dzjszjz.nkxingxh.top
-- dzjszjz.stdio.run
-- dzjszjz.ip123.link
+可用的入口域名: 
+- [dzjszjz.nkxingxh.top](dzjszjz.nkxingxh.top)
+- [dzjszjz.stdio.run](dzjszjz.stdio.run)
+- [dzjszjz.gfw.life](dzjszjz.gfw.life)
+<!-- - [dzjszjz.ip123.link](dzjszjz.ip123.link) -->
 
 ***Tip**: 如需下载集控专杀等[实用工具](./utils.md)或查看[相关文章](./pages.md)可以点击[页面底部](#其他链接)的链接。*
 
