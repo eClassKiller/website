@@ -2,7 +2,7 @@
 title: 实用工具
 project_name: 电子教室终结者
 keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解"
-credits: "Copyright 2019-2023 NKXingXh. All Rights Reserved."
+credits: "Copyright 2019-2024 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 
