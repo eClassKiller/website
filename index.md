@@ -2,7 +2,7 @@
 title: 介绍
 project_name: 电子教室终结者
 keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解,一键,秒杀"
-download_url: https://lanzoux.com/imLqr0hsgc7g
+download_url: https://lanzoux.com/iccN21r3onwb
 second_btn_title: "💦 加入QQ群"
 second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QxI54ihHfKNMTCD5SEQHzI4teAWrOdZi&authKey=yUzHGA8URjeZsn%2FJ9qHTZj7jtuJEhdGmWETjd1omsbo7EkgdQe2cdibxTzxWoeqN&noverify=0&group_code=831751717
 credits: "Copyright 2019-2024 NKXingXh. All Rights Reserved."
@@ -117,6 +117,8 @@ layout: easy
 
 📥 [最新文件下载页](https://lanzoux.com/b08s1t7mb) 密码: `dzjszjz`
 
-📦 [老版本存档](https://lanzoux.com/b08t69wfa) 密码: `dzjszjz`
+📦 [老版本存档 (蓝奏云)](https://lanzoux.com/b08t69wfa) 密码: `dzjszjz`
+
+📦 [老版本存档](./releases.md)
 
 🎃 [学生机房管理助手](http://www.jfglzs.com)
