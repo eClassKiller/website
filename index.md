@@ -11,6 +11,10 @@ layout: easy
 
 🔔 **点击👆上方按钮加入交流群🔝** 群号 831751717
 
+*一个小调查*
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=pQ5CeViYI0u7Qp0-38VwZcgh-jVhZblCjkhmB3TTQZxUOURPRFVKRkpQR0FGWktaVjdPWjYwOFpKMy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 我们的老域名 ~~dzjszjz.cf~~ 已经弃用，现阶段将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目主要域名。
 
 可用的入口域名: 
