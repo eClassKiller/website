@@ -17,12 +17,6 @@ layout: easy
 
 我们的老域名 ~~dzjszjz.cf~~ 已经弃用，现阶段将使用 [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top) 作为项目主要域名。
 
-可用的入口域名: 
-- [dzjszjz.nkxingxh.top](https://dzjszjz.nkxingxh.top)
-- [dzjszjz.stdio.run](https://dzjszjz.stdio.run)
-- [dzjszjz.gfw.life](https://dzjszjz.gfw.life)
-<!-- - [dzjszjz.ip123.link](https://dzjszjz.ip123.link) -->
-
 ***Tip**: 如需下载集控专杀等[实用工具](./utils.md)或查看[相关文章](./pages.md)可以点击[页面底部](#其他链接)的链接。*
 
 * * *
