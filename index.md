@@ -117,6 +117,6 @@ layout: easy
 
 📦 [老版本存档 (蓝奏云)](https://lanzoux.com/b08t69wfa) 密码: `dzjszjz`
 
-📦 [老版本存档](./releases.md)
+📁 [老版本归档](./releases.md)
 
 🎃 [学生机房管理助手](http://www.jfglzs.com)
