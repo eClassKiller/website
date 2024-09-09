@@ -22,7 +22,7 @@ layout: easy
 
 *注: 需要在PE环境使用。*
 
-### [机房管理助手检测器](https://lanzoux.com/icHXg0hsgcva)
+### [机房管理助手检测器](https://lanzoux.com/iBIIs29mpvaf)
 
 用于检测学生机房管理助手的“随机”进程以及安装目录。
 
