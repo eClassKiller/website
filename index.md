@@ -3,6 +3,7 @@ title: 介绍
 project_name: 电子教室终结者
 keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解,一键,秒杀"
 download_url: /download
+download_url_target: _self
 second_btn_title: "💦 加入QQ群"
 second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QxI54ihHfKNMTCD5SEQHzI4teAWrOdZi&authKey=yUzHGA8URjeZsn%2FJ9qHTZj7jtuJEhdGmWETjd1omsbo7EkgdQe2cdibxTzxWoeqN&noverify=0&group_code=831751717
 credits: "Copyright (c) 2019-2024 NKXingXh. All Rights Reserved."
