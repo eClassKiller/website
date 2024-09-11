@@ -3,6 +3,8 @@ title: 下载
 project_name: 电子教室终结者
 keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,解除限制,脱离控制,终结者,脱控,破解,一键,秒杀"
 download_url: https://lanzoux.com/iOXgt29sq64b
+second_btn_title: "📦 历史版本"
+second_btn_url: /releases
 credits: "Copyright (c) 2019-2024 NKXingXh. All Rights Reserved."
 layout: easy
 ---
@@ -20,15 +22,21 @@ layout: easy
     body > header > a:nth-child(3) {
         display: none;
     }
+    body > header > a:nth-child(4) {
+        display: none;
+    }
 </style>
 
 <script>
     document.getElementById('agreeCheckbox').addEventListener('change', function() {
         var downloadButton = document.querySelector('body > header > a:nth-child(3)');
+        var downloadButton2 = document.querySelector('body > header > a:nth-child(4)');
         if (this.checked) {
             downloadButton.style.display = 'inline';
+            downloadButton2.style.display = 'inline';
         } else {
             downloadButton.style.display = 'none';
+            downloadButton2.style.display = 'none';
         }
     });
 </script>
