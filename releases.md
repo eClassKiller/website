@@ -12,7 +12,7 @@ layout: easy
 
 ## 电子教室终结者
 
-### 2024-09-10 [v13.3](https://lanzoux.com/i8IEN29mpvdi) (最新版本)
+### 2024-09-10 [v13.3](https://lanzoux.com/iOXgt29sq64b) (最新版本)
 
 ### 2024-03-12 [v13.2](https://lanzoux.com/iccN21r3onwb)
 
