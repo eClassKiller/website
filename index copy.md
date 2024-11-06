@@ -1,6 +1,6 @@
 ---
 layout: easy
-download_url: https://lanzoux.com/iUbWo0dzhpvc
+download_url: https://www.lanzoul.com/iUbWo0dzhpvc
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
