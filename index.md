@@ -12,6 +12,24 @@ layout: easy
 
 🔔 **点击👆上方按钮加入交流群🔝** 群号 831751717
 
+在找联机工具?
+
+
+
+## ✨ [联机就用 **GameLAN 联机助手**](https://gamelan.nkxingxh.top/)
+
+### 快速、安全、免费
+
+游戏联机，一步到位。支持电脑手机双端。任何人都能快速上手的联机工具，让联机再次简单！
+
+![GameLAN 联机助手](https://gamelan.nkxingxh.top/images/gui/main.png)
+
+
+
+* * *
+
+## 调查
+
 *一个小调查*
 
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=pQ5CeViYI0u7Qp0-38VwZcgh-jVhZblCjkhmB3TTQZxUOURPRFVKRkpQR0FGWktaVjdPWjYwOFpKMy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
