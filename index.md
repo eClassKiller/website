@@ -14,17 +14,17 @@ layout: easy
 
 在找联机工具?
 
+<center>
 
+<h2 id="-联机就用-gamelan-联机助手">✨ <a href="https://gamelan.nkxingxh.top/">联机就用 <strong>GameLAN 联机助手</strong></a></h2>
 
-## ✨ [联机就用 **GameLAN 联机助手**](https://gamelan.nkxingxh.top/)
+<h3 id="快速安全免费">快速、安全、免费</h3>
 
-### 快速、安全、免费
+<p>游戏联机，一步到位。支持电脑手机双端。任何人都能快速上手的联机工具，让联机再次简单！</p>
 
-游戏联机，一步到位。支持电脑手机双端。任何人都能快速上手的联机工具，让联机再次简单！
+<p><img src="https://gamelan.nkxingxh.top/images/gui/main.png" alt="GameLAN 联机助手"></p>
 
-![GameLAN 联机助手](https://gamelan.nkxingxh.top/images/gui/main.png)
-
-
+</center>
 
 * * *
 
