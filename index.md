@@ -6,7 +6,7 @@ download_url: /download
 download_url_target: _self
 second_btn_title: "💦 加入QQ群"
 second_btn_url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QxI54ihHfKNMTCD5SEQHzI4teAWrOdZi&authKey=yUzHGA8URjeZsn%2FJ9qHTZj7jtuJEhdGmWETjd1omsbo7EkgdQe2cdibxTzxWoeqN&noverify=0&group_code=831751717
-credits: "Copyright (c) 2019-2024 NKXingXh. All Rights Reserved."
+credits: "Copyright (c) 2019-2025 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 

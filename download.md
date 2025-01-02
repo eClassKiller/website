@@ -5,7 +5,7 @@ keywords: "电子教室,极域,伽卡他卡,凌波,红蜘蛛,机房管理助手,
 download_url: https://www.lanzoul.com/iz2I82ef8eti
 second_btn_title: "📦 历史版本"
 second_btn_url: /releases
-credits: "Copyright (c) 2019-2024 NKXingXh. All Rights Reserved."
+credits: "Copyright (c) 2019-2025 NKXingXh. All Rights Reserved."
 layout: easy
 ---
 
