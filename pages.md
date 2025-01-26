@@ -12,6 +12,12 @@ layout: easy
 
 ## 机房管理助手相关
 
+[对机房管理助手9.99密码算法的一些研究](https://blog.nkxingxh.top/archives/536/)
+
+[机房管理助手9.97新增功能记录](https://blog.nkxingxh.top/archives/461/)
+
+[结束老版本机房管理助手](https://blog.nkxingxh.top/archives/283/)
+
 [对机房管理助手“临时密码”的一些研究](https://blog.nkxingxh.top/archives/269/)
 
 [解除禁用 Chrome / Edge 浏览器的小游戏](https://blog.nkxingxh.top/archives/268/)
